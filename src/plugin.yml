@@ -1,0 +1,5 @@
+name: Misplace
+version: 1.0
+author: Flairings
+description: Serverside misplace
+main: flairings.agency.misplace.MisplacePlugin
